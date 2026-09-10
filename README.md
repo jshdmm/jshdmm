@@ -28,6 +28,21 @@ analysis of administrative population data.
 **Data** SQL (MySQL, PostgreSQL, DuckDB, SQLAlchemy) & NoSQL (MongoDB) databases
 **Tooling** Git, GitHub Actions, PyTest, Docker, Make, Airflow
 
+# Joshua Damm
+
+Data scientist — statistics, ML, and the pipelines around them.
+
+**Languages & ML**
+![R](...) ![scikit-learn](...) ![pandas](...) ![NumPy](...)
+
+**Data**
+![PostgreSQL](...) ![MySQL](...) ![DuckDB](...) ![SQLAlchemy](...) ![MongoDB](...)
+
+**Infra**
+![Docker](...) ![GitHub Actions](...) ![Apache Airflow](...) ![FastAPI](...) ![Linux](...)
+
+Currently looking for data science / MLOps roles in Germany and the Netherlands.
+
 
 
 📫 [LinkedIn](https://linkedin.com/in/jshdmm)
