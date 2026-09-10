@@ -28,6 +28,7 @@ analysis of administrative population data.
 
 **ML** 
 - Probablistic modelling, classical ML, Bayesian Modelling, Deep Learning & NLP fundamentals
+
 **Data**
 - SQL (MySQL, PostgreSQL, DuckDB, SQLAlchemy) & NoSQL (MongoDB) databases
 
