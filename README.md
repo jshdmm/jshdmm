@@ -40,4 +40,4 @@ analysis of administrative population data.
 
 
 
-📫 [LinkedIn](https://linkedin.com/in/jshdmm)
+📫 [LinkedIn](https://www.linkedin.com/in/joshua-damm/)
