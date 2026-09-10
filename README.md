@@ -34,10 +34,3 @@ analysis of administrative population data.
 
 **Infra**
 - Git, GitHub Actions, PyTest, Docker, Make, Airflow
-
-
-
-
-
-
-📫 [LinkedIn](https://www.linkedin.com/in/joshua-damm/)
