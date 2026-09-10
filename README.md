@@ -32,7 +32,7 @@ analysis of administrative population data.
 **Data**
 - SQL (MySQL, PostgreSQL, DuckDB, SQLAlchemy) & NoSQL (MongoDB) databases
 
-**Tooling**
+**Infra**
 - Git, GitHub Actions, PyTest, Docker, Make, Airflow
 
 
