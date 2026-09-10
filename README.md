@@ -23,25 +23,19 @@ analysis of administrative population data.
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 
-**Languages** Python, R, SQL, Bash
-**ML** Probablistic modelling, classical ML, Bayesian Modelling, Deep Learning & NLP fundamentals
-**Data** SQL (MySQL, PostgreSQL, DuckDB, SQLAlchemy) & NoSQL (MongoDB) databases
-**Tooling** Git, GitHub Actions, PyTest, Docker, Make, Airflow
+**Languages** 
+- Python, R, SQL, Bash
 
-# Joshua Damm
-
-Data scientist — statistics, ML, and the pipelines around them.
-
-**Languages & ML**
-![R](...) ![scikit-learn](...) ![pandas](...) ![NumPy](...)
-
+**ML** 
+- Probablistic modelling, classical ML, Bayesian Modelling, Deep Learning & NLP fundamentals
 **Data**
-![PostgreSQL](...) ![MySQL](...) ![DuckDB](...) ![SQLAlchemy](...) ![MongoDB](...)
+- SQL (MySQL, PostgreSQL, DuckDB, SQLAlchemy) & NoSQL (MongoDB) databases
 
-**Infra**
-![Docker](...) ![GitHub Actions](...) ![Apache Airflow](...) ![FastAPI](...) ![Linux](...)
+**Tooling**
+- Git, GitHub Actions, PyTest, Docker, Make, Airflow
 
-Currently looking for data science / MLOps roles in Germany and the Netherlands.
+
+
 
 
 
